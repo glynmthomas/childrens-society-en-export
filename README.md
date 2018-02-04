@@ -8,11 +8,11 @@ It is set up for PHP 5.3.3.
 
 **2. Clone this repository** onto your server:
 
-`git clone git@github.com:joefhall/childrens-society-en-export.git`
+`git clone git@github.com:glynmthomas/childrens-society-en-export.git`
 
 or
 
-`git clone https://github.com/joefhall/childrens-society-en-export.git`
+`git clone https://github.com/glynmthomas/childrens-society-en-export.git`
 
 **3. Install the packages it relies on** using composer, in the same directory where you cloned it:
 
